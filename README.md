@@ -24,10 +24,9 @@ I'm a versatile developer with a passion for creating innovative applications, d
 
 Here are some notable projects I've worked on:
 
-1. **[Project Name 1]** - Description of a project, including tech stack and unique challenges solved.
-2. **[Project Name 2]** - Another example, emphasizing collaboration or a particular skill set.
-3. **[Your Yango-Like App]** - An app allowing users to manage budgets and track shopping in real-time.
-4. **[Driver Behavior Monitoring App]** - A desktop application for tracking and analyzing driver behavior.
+1. **Geo-Locator** - this is a web-app that gets a users locations every 20 seconds and stores the data in the database.
+2. **Ride With Me** - A mobile appication that helps with car pooling from one town to the other.
+3. **[Driver Behavior Monitoring App]** - A desktop application for tracking and analyzing driver behavior.
 
 ## 🌱 Currently Learning
 
