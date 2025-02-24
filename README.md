@@ -36,7 +36,7 @@ I'm exploring advanced techniques in 3D animation and expanding my knowledge in 
 
 Feel free to reach out for collaboration, ideas, or simply to connect!
 
-- **[LinkedIn](https://www.linkedin.com/in/kingsley_chibona)**
+- **[LinkedIn](https://www.linkedin.com/in/KingsleyChibona)**
 - **[Email](mailto:chibona03@gmail.com)**
 
 Thanks for visiting, and let's create something amazing together! 🚀
