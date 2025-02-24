@@ -26,7 +26,7 @@ Here are some notable projects I've worked on:
 
 1. **Geo-Locator** - this is a web-app that gets a users locations every 20 seconds and stores the data in the database.
 2. **Ride With Me** - A mobile appication that helps with car pooling from one town to the other.
-3. **[Driver Behavior Monitoring App]** - A desktop application for tracking and analyzing driver behavior.
+3. **Driver Behavior Monitoring App** - A desktop application for tracking and analyzing driver behavior.
 
 ## 🌱 Currently Learning
 
@@ -36,8 +36,7 @@ I'm exploring advanced techniques in 3D animation and expanding my knowledge in 
 
 Feel free to reach out for collaboration, ideas, or simply to connect!
 
-- **[LinkedIn](https://www.linkedin.com/in/yourusername)**
-- **[Twitter](https://twitter.com/yourusername)**
-- **[Email](mailto:youremail@example.com)**
+- **[LinkedIn](https://www.linkedin.com/in/kingsley-chibona)**
+- **[Email](mailto:chibona03@gmail.com)**
 
 Thanks for visiting, and let's create something amazing together! 🚀
